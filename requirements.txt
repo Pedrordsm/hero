@@ -1,2 +1,4 @@
 uvicorn
 fastapi[standard]
+sqlmodel
+typing_extensions

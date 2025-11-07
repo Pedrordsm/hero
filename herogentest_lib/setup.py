@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="herogentest-lib",  # ⚡ Nome com hífen para o PyPI
-    version="0.1.0",
+    version="0.1.8",
     description="Lib de heroes.",
     long_description=long_description,
     long_description_content_type="text/markdown",
